@@ -1,0 +1,44 @@
+<style>
+
+.row {
+  border-width: 0px;
+}
+.portfolio {
+  background-color: white;
+}
+
+.bord {
+  background-color: #232323;
+}
+.main {
+  align: center;
+  color: white;
+  background-color: #323232;
+}
+
+h1 {
+  margin: 10px;
+  color: gold;
+}
+
+h1, h2, h3 {
+  margin: 10px;
+}
+
+.img-responsive {
+  margin: 20px;
+}
+
+  .profile-pic-border {
+    border-color: gold;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+.btn {
+  background-color: #131313;
+  color: #ffffff;
+  margin: 7px;
+}
+</style>
