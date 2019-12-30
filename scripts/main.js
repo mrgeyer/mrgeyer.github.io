@@ -8,6 +8,52 @@ projects = [{
   languages: ['JavaScript','HTML', 'CSS']
 },
 {
+  name: "Bingo Card Maker",
+  type: "program",
+  url: 'https://github.com/mrgeyer/bingoCardMaker',
+  codeURL: 'https://github.com/mrgeyer/bingoCardMaker',
+  image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/bingo.png',
+  subjects: ['Classroom Management'],
+  languages: ['JavaScript','HTML', 'CSS']
+},            
+{
+  name: "Bounce or Cross",
+  type: "program",
+  url: 'https://codepen.io/mrgeyer/full/YMQWgZ',
+  codeURL: 'https://codepen.io/mrgeyer/pen/YMQWgZ',
+  image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/bounceCross.png',
+  subjects: ['Algebra','Precalculus'],
+  languages: ['JavaScript','HTML', 'CSS']
+},
+{
+  name: "Something Similar to the Sieve of Eratosthenes",
+  type: "program",
+  url: 'https://codepen.io/mrgeyer/full/zPMZRv',
+  codeURL: 'https://codepen.io/mrgeyer/pen/zPMZRv',
+  image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/sieve.png',
+  subjects: ['Mathematics','Number Theory'],
+  languages: ['JavaScript','HTML', 'CSS']
+},
+{
+  name: "This, That, or the Other Thing",
+  type: "program",
+  url: 'https://codepen.io/mrgeyer/pen/QOQaWg',
+  codeURL: 'https://codepen.io/mrgeyer/pen/QOQaWg',
+  image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/ttot.png',
+  subjects: ['Real Analysis'],
+  languages: ['JavaScript','HTML', 'CSS']
+},
+{
+  name: "Lyra",
+  type: "program",
+  url: 'https://mrgeyer.github.io/Lyra',
+  codeURL: 'https://github.com/mrgeyer/Lyra',
+  image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/Lyra.png',
+  subjects: ['Biology','Anatomy','History of Math'],
+  languages: ['JavaScript','HTML', 'CSS']
+},            
+            
+{
   name: "Classtris",
   type: "program",
   url: 'https://methodsofmath.github.io/classtris/',
@@ -22,15 +68,6 @@ projects = [{
   url: 'https://mrgeyer.github.io/Mather/',
   codeURL: 'https://github.com/mrgeyer/Mather',
   image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/Mather.png',
-  subjects: ['Game Development'],
-  languages: ['JavaScript','HTML', 'CSS', 'processing']
-},
-{
-  name: "Mather",
-  type: "program",
-  url: 'https://methodsofmath.github.io/Mather/',
-  codeURL: 'https://github.com/MethodsOfMath/Mather',
-  image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/mather.png',
   subjects: ['Game Development'],
   languages: ['JavaScript','HTML', 'CSS', 'processing']
 },
@@ -52,17 +89,7 @@ projects = [{
   subjects: ['History of Math'],
   languages: ['JavaScript','HTML', 'CSS']
 },
-           
-{
-  name: "Basic Calculator",
-  type: "program",
-  url: 'https://codepen.io/mrgeyer/full/yXOYrR',
-  codeURL: 'https://codepen.io/mrgeyer/pen/yXOYrR',
-  image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/calc.png',
-  subjects: ['Mathematics'],
-  languages: ['JavaScript','HTML', 'CSS']
-},
-            
+                       
 {
   name: "Emoji Memory Game",
   type: "program",
@@ -71,8 +98,25 @@ projects = [{
   image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/simon.png',
   subjects: ['Memory'],
   languages: ['JavaScript','HTML', 'CSS']
-}                                     
-];
+},
+{
+  name: "Tic Tac Toe",
+  type: "program",
+  url: 'https://codepen.io/mrgeyer/full/qjaLPe',
+  codeURL: 'https://codepen.io/mrgeyer/pen/qjaLPe',
+  image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/ticTacToe.png',
+  subjects: ['Mathematics'],
+  languages: ['JavaScript','HTML', 'CSS']
+},
+{
+  name: "Basic Calculator",
+  type: "program",
+  url: 'https://codepen.io/mrgeyer/full/yXOYrR',
+  codeURL: 'https://codepen.io/mrgeyer/pen/yXOYrR',
+  image: 'https://raw.githubusercontent.com/mrgeyer/mrgeyer.github.io/master/image/calc.png',
+  subjects: ['Mathematics'],
+  languages: ['JavaScript','HTML', 'CSS']
+}];
 
 projectArea = document.getElementById("Projects");
 
